@@ -32,5 +32,9 @@ public class StudentInfo {
 		System.out.println(nextByte + nextByte2 + nextByte3 + nextByte4 + nextByte5);
 
 	}
+	private void Employee() {
+
+		System.out.println("Employee name is deepan");
+	}
 
 }

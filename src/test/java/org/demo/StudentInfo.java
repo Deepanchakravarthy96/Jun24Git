@@ -36,5 +36,9 @@ public class StudentInfo {
 
 		System.out.println("Employee name is deepan");
 	}
+	private void Company() {
 
+		System.out.println("Company name is tcs");
+	
+}
 }
